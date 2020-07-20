@@ -10,7 +10,7 @@ url = ('https://media.licdn.com/mpr/mpr/shrinknp_100_100/AAEAAQAAAAAAAAlgAAAAJGE
 
 
 day = 11
-month = 05
+month = 5
 year = 2015
 SF_COORDINATES = (37.76, -122.45)
 #crimedata = pd.read_csv('./datasets/new_train(kaggledata).csv')
@@ -76,4 +76,4 @@ folium.LayerControl().add_to(m)
 m.add_child(MeasureControl())
 
 m.save('index.html')
-print "Saving the webpage for map...."
+print("Saving the webpage for map....")

@@ -11,7 +11,7 @@ Step-by-step tutorial for this project can be found on https://link.medium.com/n
 
 
 # Requirements
-* Python 2.7.x
+* Python 3.x
 * Folium
 * Pandas
 
